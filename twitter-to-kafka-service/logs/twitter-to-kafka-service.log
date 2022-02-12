@@ -1,0 +1,11 @@
+2022-02-13 02:05:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Utshabs-Mac-mini.local with PID 96393 (/Users/roy/Documents/java-spring/event-driven-microservice/twitter-to-kafka-service/target/classes started by roy in /Users/roy/Documents/java-spring/event-driven-microservice)
+2022-02-13 02:05:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-02-13 02:05:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.333 seconds (JVM running for 2.168)
+2022-02-13 02:05:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Running !!!
+2022-02-13 02:05:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Spring, Elasticsearch]
+2022-02-13 02:07:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Utshabs-Mac-mini.local with PID 6487 (/Users/roy/Documents/java-spring/event-driven-microservice/twitter-to-kafka-service/target/classes started by roy in /Users/roy/Documents/java-spring/event-driven-microservice)
+2022-02-13 02:07:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-02-13 02:07:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.503 seconds (JVM running for 2.304)
+2022-02-13 02:07:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Running !!!
+2022-02-13 02:07:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Spring, Elasticsearch]
+2022-02-13 02:07:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
